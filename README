@@ -1,0 +1,34 @@
+CONTENTS OF THIS FILE
+---------------------
+ * Introduction
+ * Requirements
+ * Installation
+ * Rerference
+
+ 
+INTRODUCTION
+------------
+In this project,the client will send requests to the server to reverse strings
+over the network using sockets.
+
+
+REQUIREMENTS
+------------
+Use ubuntu1604-002.student.cs.uwaterloo.ca to test
+Java version:
+	openjdk version "9-internal"
+	OpenJDK Runtime Environment (build 9-internal+0-2016-04-14-195246.buildd.src)
+	OpenJDK 64-Bit Server VM (build 9-internal+0-2016-04-14-195246.buildd.src, mixed mode)
+make version: GNU Make 4.1
+
+
+INSTALLATION
+------------
+Use $make to compile.
+Then run $./server.sh <req_code>
+Then run $./client.sh <server address> <n_port> <req_code> 'message you want'
+
+
+REFERENCE
+---------
+Use Java code example from:"Computer Networking A Top-Down Approach Featuring the Internet"
