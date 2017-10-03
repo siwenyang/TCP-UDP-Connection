@@ -15,10 +15,7 @@ over the network using sockets.
 REQUIREMENTS
 ------------
 Use ubuntu1604-002.student.cs.uwaterloo.ca to test
-Java version:
-	openjdk version "9-internal"
-	OpenJDK Runtime Environment (build 9-internal+0-2016-04-14-195246.buildd.src)
-	OpenJDK 64-Bit Server VM (build 9-internal+0-2016-04-14-195246.buildd.src, mixed mode)
+Java version: 1.8.0_131
 make version: GNU Make 4.1
 
 
